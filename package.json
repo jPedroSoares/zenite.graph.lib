@@ -1,0 +1,48 @@
+{
+  "name": "zenite-graph.lib",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "'Biblioteca de gráficos para a aplicação Zênite desenvolvida pela equipe Orion.'",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jPedroSoares/zenite-graph.lib.git"
+  },
+  "keywords": [
+    "Gráficos",
+    "Zênite"
+  ],
+  "author": "João Soares <joao.soares204@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jPedroSoares/zenite-graph.lib/issues"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "react": "^16.13.1",
+    "react-chartjs-2": "^2.9.0",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "styled-components": "^5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "homepage": "https://github.com/jPedroSoares/zenite-graph.lib#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
